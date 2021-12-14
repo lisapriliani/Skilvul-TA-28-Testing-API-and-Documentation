@@ -15,5 +15,7 @@
 <img width="960" alt="delete" src="https://user-images.githubusercontent.com/90605557/145950353-42eca287-2ac2-4713-b9fb-b47de5ac0752.png">
 <img width="960" alt="hasil delete" src="https://user-images.githubusercontent.com/90605557/145950364-0cdeceb3-889d-47c1-a457-4a7ff70d0931.png">
 
+URL for published documentation
+https://documenter.getpostman.com/view/18538642/UVR7KTuN
 
 
